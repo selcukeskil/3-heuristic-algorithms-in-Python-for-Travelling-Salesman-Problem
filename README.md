@@ -15,12 +15,12 @@ To use the Genetic Algorithm code with the argument values you want; the first o
 
 # Comparison of algorithm performances in terms of "closeness of the best solution to the optimum" and "computational time"
 
-The output of the City Swap Algorithm code is as shown below.
+When the following arguments are written to the main function, the output of the City Swap Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169900647-fb10fa0b-7619-471e-beaa-a8dbc55808cd.png)
----------------------------------------------------------------------
-The output of the Simulated Annealing Algorithm code is as shown below.
+
+When the following arguments are written to the main function, the output of the Simulated Annealing Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169902750-0e2cca4e-47df-413d-9473-574648d906ba.png)
----------------------------------------------------------------------
+
 When the following arguments are written to the main function, the output of the Genetic Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169904548-0849874f-8f19-4a4d-b2fe-a3b9bce7ac5d.png)
 
