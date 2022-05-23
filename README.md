@@ -13,4 +13,13 @@ To use the Simulated Annealing Algorithm code with your desired argument values;
 
 To use the Genetic Algorithm code with the argument values you want; the first of the arguments in the main function is how many generations you want to create, the second is the number of individuals in one generation, the third is the number of parent "pairs" to be selected in parent selection, the fourth is the crossover probability for a parent pair value, the fifth is mutation probability of a child solution. 
 
+# Comparison of algorithm performances in terms of "closeness of the best solution to the optimum" and "computational time"
+
+The output of the City Swap Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169900647-fb10fa0b-7619-471e-beaa-a8dbc55808cd.png)
+
+The output of the Simulated Annealing Algorithm code is as shown below.
+![image](https://user-images.githubusercontent.com/82934361/169902750-0e2cca4e-47df-413d-9473-574648d906ba.png)
+
+The output of the Genetic Algorithm code is as shown below.
+![image](https://user-images.githubusercontent.com/82934361/169904072-0fdfb5aa-def6-477f-bee4-d0d7df74c07d.png)
