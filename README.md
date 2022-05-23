@@ -11,7 +11,9 @@ To use the City Swap Algorithm code, you need to run the "testCode.py" file in t
 
 To use the Simulated Annealing Algorithm code with your desired argument values; you can write the start temperature you want to the second argument in the main function, the desired cooling rate value (between 0-1) to the third argument in the main function, the lower bound of the temperature to the fourth, and the tolerance value of the local search to the fifth.
 
-To use the Genetic Algorithm code with the argument values you want; the first of the arguments in the main function is how many generations you want to create, the second is the number of individuals in one generation, the third is the number of parent "pairs" to be selected in parent selection, the fourth is the crossover probability for a parent pair value, the fifth is mutation probability of a child solution. 
+To use the Genetic Algorithm code with the argument values you want; the first of the arguments in the main function is how many generations you want to create, the second is the number of individuals in one generation, the third is the number of parent "pairs" to be selected in parent selection, the fourth is the crossover probability for a parent pair value, the fifth is mutation probability of a child solution.
+
+Note: You can find detailed explanations of how the codes work in the comments on the lines of codes.
 
 # Comparison of algorithm performances in terms of "closeness of the best solution to the optimum" and "computational time"
 
