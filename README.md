@@ -17,9 +17,17 @@ To use the Genetic Algorithm code with the argument values you want; the first o
 
 The output of the City Swap Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169900647-fb10fa0b-7619-471e-beaa-a8dbc55808cd.png)
-
+---------------------------------------------------------------------
 The output of the Simulated Annealing Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169902750-0e2cca4e-47df-413d-9473-574648d906ba.png)
+---------------------------------------------------------------------
+When the following arguments are written to the main function, the output of the Genetic Algorithm code is as shown below.
+![image](https://user-images.githubusercontent.com/82934361/169904548-0849874f-8f19-4a4d-b2fe-a3b9bce7ac5d.png)
 
-The output of the Genetic Algorithm code is as shown below.
 ![image](https://user-images.githubusercontent.com/82934361/169904072-0fdfb5aa-def6-477f-bee4-d0d7df74c07d.png)
+
+When the following arguments are written to the main function, the output of the Genetic Algorithm code is as shown below.
+![image](https://user-images.githubusercontent.com/82934361/169905468-c6044ea8-5ced-4332-9b26-611bdbd3dfe1.png)
+
+![image](https://user-images.githubusercontent.com/82934361/169905598-890672d5-e243-46fb-9c24-503942d37c66.png)
+
