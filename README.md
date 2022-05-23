@@ -22,7 +22,7 @@ When the following arguments are written to the main function, the output of the
 ![image](https://user-images.githubusercontent.com/82934361/169902750-0e2cca4e-47df-413d-9473-574648d906ba.png)
 
 When the following arguments are written to the main function, the output of the Genetic Algorithm code is as shown below.
-![image](https://user-images.githubusercontent.com/82934361/169904548-0849874f-8f19-4a4d-b2fe-a3b9bce7ac5d.png)
+![image](https://user-images.githubusercontent.com/82934361/169906970-3ba84ad1-7a45-4680-8194-c6ff123c3829.png)
 
 ![image](https://user-images.githubusercontent.com/82934361/169904072-0fdfb5aa-def6-477f-bee4-d0d7df74c07d.png)
 
