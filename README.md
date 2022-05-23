@@ -36,9 +36,13 @@ To use the Genetic Algorithm code with the argument values you want; the first o
 
 
 Note that the best known solution for this symmetrical TSP costs 426. 
+
 As you can see in output 4, the Genetic Algorithm found the closest solution to optimum, but it took about 3 times longer than Simulated Annealing Algorithm and 12 times longer than City Swap Algorithm to reach this solution. 
+
 As you can see in the 3rd output, when we changed the arguments we used in the Genetic Algorithm code, the computational time of the Genetic Algorithm became about 10 seconds shorter than the computational time of the Simulated Annealing Algorithm. However, as you can see in output 2, the Simulated Annealing Algorithm was able to produce a better solution by running 10 seconds longer.
+
 As you can see in the 1st output, the City Swap Algorithm took much less time than the remaining two algorithms, but the best solution it found is also much worse than the remaining two algorithms. 
+
 Note: It should be noted that City Swap Algorithm is a greedy improvement heuristic algorithm. The situation we observed as a result of the codes we wrote confirms our theoretical knowledge about improvement algorithms. A greedy algorithm is any algorithm that follows the method of making the locally optimal choice at each stage. In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can find locally optimal solutions that approach a globally optimal solution in as short a time as possible. So basically in short, greedy improvement algorithms like City Swap Algorithm can be used to find a good solution to a problem as fast as possible.
 
 
